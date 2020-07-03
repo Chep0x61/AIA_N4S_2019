@@ -1,0 +1,27 @@
+## Temporary editor files / folders
+
+.vscode/
+.idea/
+*~
+'#*#'
+
+## Binary files
+
+.fifo_n4s
+ai
+*.o
+*.a
+n4s
+n4s_buffer
+pipes.sh
+scene/
+
+## GDB temporary files
+
+.gdb_history
+peda-session*.txt
+
+## CMakelist files / folders
+
+CMakeLists.txt
+cmake-build-debug/
