@@ -1,7 +1,7 @@
 # AIA_N4S_2019
 Hello everyone, here you can find the Epitech's project N4S.
 
-It consists to create an IA to control a car for a race circuit.
+It consists to create an IA that control a car for a race circuit.
 
 This project is only functionnal on the software CoppeliaSim because we are using an API to communicate between our program and the software.
 So if you want to test it, you should download the CoppeliaSim.
